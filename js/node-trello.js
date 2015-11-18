@@ -1,5 +1,4 @@
 var https = require('https')
-var Promise = require('bluebird')
 
 module.exports = (function () {
 
